@@ -1,0 +1,10 @@
+pyproject.toml
+src/__init__.py
+src/uebung/__init__.py
+src/uebung/geometricshapes.py
+src/uebung/hello.py
+src/uebung/stringtest.py
+src/uebung.egg-info/PKG-INFO
+src/uebung.egg-info/SOURCES.txt
+src/uebung.egg-info/dependency_links.txt
+src/uebung.egg-info/top_level.txt
