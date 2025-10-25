@@ -1,6 +1,18 @@
 # define some geometric shapes
 
 class Circle:
+    """
+    A class used to represent a Circle.
+    Attributes
+    ----------
+    radius : float
+        The radius of the circle.
+    Methods
+    -------
+    getArea():
+        Calculates and returns the area of the circle.
+    """
+
     def __init__(self, radius):
         self.radius = radius
 
