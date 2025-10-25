@@ -1,3 +1,14 @@
 Metadata-Version: 2.4
 Name: uebung
-Version: 0.0.0
+Version: 1.0.0
+Summary: Beispielcode für Python Grundkurs
+Author-email: Julia Imlauer <info@linkedinlearning.com>
+License: LinkedIn Learning Exercise Files License
+Project-URL: Homepage, https://github.com/LinkedInLearning/python-grundkurs-2685000
+Keywords: python,grundkurs,linkedinlearning
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: LinkedIn Learning Exercise Files License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: pytest==8.3.2
