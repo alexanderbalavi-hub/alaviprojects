@@ -1,10 +1,19 @@
 pyproject.toml
 src/__init__.py
 src/uebung/__init__.py
+src/uebung/createdataframe.py
 src/uebung/geometricshapes.py
 src/uebung/hello.py
 src/uebung/stringtest.py
 src/uebung.egg-info/PKG-INFO
 src/uebung.egg-info/SOURCES.txt
 src/uebung.egg-info/dependency_links.txt
+src/uebung.egg-info/requires.txt
 src/uebung.egg-info/top_level.txt
+src/uebung/Dataanalytics/__init__.py
+src/uebung/Dataanalytics/findmissingvalues_3.py
+src/uebung/Dataanalytics/readincsvfile.py
+src/uebung/Dataanalytics/selectandfilterdata_1.py
+test/test_1 copy.py
+test/test_1.py
+test/test_createdataframe_2.py

@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 from pandas import Series, DataFrame
+import pytest
 
 #erstellt einen DataFrame (Tabelle) mit 36 Werten in einer 6x6 Matrix (6 Spalten und 6 Zeilen)
 np.random.seed(25)
@@ -19,3 +20,14 @@ print(area)
 #Werte kleiner 0.2 als boolean auswerten
 filter = DF_obj < 0.2
 print(filter)
+
+# Sample DataFrame for testing
+@pytest.fixture
+def sample_df():
+    data = {
+        'c1': [0.1, 0.5, 0.8, 0.3],
+        'c2': [0.4, 0.2, 0.9, 0.6],
+        'c3': [0.7, 0.3, 0.1, 0.8]
+    }
+    index = ['r1', 'r2', 'r3', 'r4']
+    return pd.DataFrame(data, index=index)
