@@ -1,6 +1,5 @@
 import pandas as pd
 import pytest
-from uebung.geometricshapes import Circle, Square, Rectangle
 from uebung.createdataframe import sample_df
 # Sample DataFrame for testing
 
