@@ -30,3 +30,6 @@ def test_shape(sample_df):
 
 def test_column_names(sample_df):
     assert list(sample_df.columns) == ['c1', 'c2', 'c3']
+
+def test_row_names(sample_df):
+    assert list(sample_df.index) == ['r1', 'r2', 'r3', 'r4']
