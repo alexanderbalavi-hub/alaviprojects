@@ -14,4 +14,5 @@ src/uebung/Dataanalytics/__init__.py
 src/uebung/Dataanalytics/findmissingvalues_3.py
 src/uebung/Dataanalytics/readincsvfile.py
 src/uebung/Dataanalytics/selectandfilterdata_1.py
+test/test_1.py
 test/test_createdataframe_2.py
