@@ -11,6 +11,7 @@ src/uebung.egg-info/dependency_links.txt
 src/uebung.egg-info/requires.txt
 src/uebung.egg-info/top_level.txt
 src/uebung/Dataanalytics/__init__.py
+src/uebung/Dataanalytics/arrayoperations.py
 src/uebung/Dataanalytics/concatmethod.py
 src/uebung/Dataanalytics/deleterowscolumns.py
 src/uebung/Dataanalytics/findmissingvalues_3.py
@@ -20,4 +21,5 @@ src/uebung/Dataanalytics/readincsvfile.py
 src/uebung/Dataanalytics/selectandfilterdata_1.py
 src/uebung/Dataanalytics/sortdata.py
 test/test_1.py
+test/test_arrayoperations.py
 test/test_createdataframe_2.py
