@@ -15,6 +15,7 @@ src/uebung/Dataanalytics/concatmethod.py
 src/uebung/Dataanalytics/deleterowscolumns.py
 src/uebung/Dataanalytics/findmissingvalues_3.py
 src/uebung/Dataanalytics/groupdatabycriteria.py
+src/uebung/Dataanalytics/plot_simple_diagramm.py
 src/uebung/Dataanalytics/readincsvfile.py
 src/uebung/Dataanalytics/selectandfilterdata_1.py
 src/uebung/Dataanalytics/sortdata.py
