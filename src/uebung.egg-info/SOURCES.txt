@@ -20,6 +20,8 @@ src/uebung/Dataanalytics/plot_simple_diagramm.py
 src/uebung/Dataanalytics/readincsvfile.py
 src/uebung/Dataanalytics/selectandfilterdata_1.py
 src/uebung/Dataanalytics/sortdata.py
+src/uebung/Dataanalytics/Correlation_Scaling_Outliers/Correlation.py
+src/uebung/Dataanalytics/Correlation_Scaling_Outliers/__init__.py
 test/test_1.py
 test/test_arrayoperations.py
 test/test_createdataframe_2.py
