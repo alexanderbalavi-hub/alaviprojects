@@ -1,5 +1,6 @@
 pyproject.toml
 src/__init__.py
+src/uebung/__init__ copy.py
 src/uebung/__init__.py
 src/uebung/createdataframe.py
 src/uebung/geometricshapes.py
@@ -22,6 +23,13 @@ src/uebung/Dataanalytics/selectandfilterdata_1.py
 src/uebung/Dataanalytics/sortdata.py
 src/uebung/Dataanalytics/Correlation_Scaling_Outliers/Correlation.py
 src/uebung/Dataanalytics/Correlation_Scaling_Outliers/__init__.py
+src/uebung/Machine_Learning_1/__init__ copy.py
+src/uebung/Machine_Learning_1/challenge_chapter_3.py
+src/uebung/Machine_Learning_1/plot_decision_boundary_1.py
+src/uebung/Machine_Learning_1/update_decision_boundary_2.py
+src/uebung/OOP/__init__ copy.py
+src/uebung/OOP/greatestcommondivisor.py
+src/uebung/OOP/newClass.py
 test/test_1.py
 test/test_arrayoperations.py
 test/test_createdataframe_2.py
