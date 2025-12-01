@@ -37,6 +37,8 @@ src/uebung/OOP/__init__ copy.py
 src/uebung/OOP/greatestcommondivisor.py
 src/uebung/OOP/newClass.py
 src/uebung/Python_Coding_Challenges/__init__ copy.py
+src/uebung/Python_Coding_Challenges/check_number_input_1.py
+src/uebung/Python_Coding_Challenges/create_dict_2.py
 test/test_1.py
 test/test_arrayoperations.py
 test/test_createdataframe_2.py
