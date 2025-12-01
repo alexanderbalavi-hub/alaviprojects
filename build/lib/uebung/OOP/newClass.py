@@ -1,4 +1,4 @@
-class MyClass(): 
+class MyClass: 
     def __init__(self): #Konstruktor, initialisiert die Klasse
         self.alter = 38
     def getAlter(self,arg1): # Methode, erste Funktion der Klasse    
