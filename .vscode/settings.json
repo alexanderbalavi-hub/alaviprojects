@@ -10,5 +10,14 @@
     "python.testing.unittestEnabled": false,
     "python.testing.pytestArgs": [
         "test"
-    ]
+    ],
+
+    "python.defaultInterpreterPath": ".\\\\.venv\\\\Scripts\\\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    "terminal.integrated.env.windows": {
+      "TCL_LIBRARY": "C:\\Program Files\\Python313\\tcl\\tcl8.6",
+      "TK_LIBRARY":  "C:\\Program Files\\Python313\\tcl\\tk8.6",
+      "Path": "C:\\Program Files\\Python313\\DLLs;${env:Path}"
+    }
+
 }
