@@ -4,14 +4,14 @@ class Application(Frame):
    
     def __init__(self,master=None):
         Frame.__init__(self, master)
-        Label(master,text="Dezimal").grid(row=0)
+        Label(master,text="Dezimal:").grid(row=0)
         
-        Label(master,text="Oktal").grid(row=1)
-        Label(master,text="Binär").grid(row=2)
-        Label(master,text="Hexadezimal").grid(row=3)
+        Label(master,text="Oktal:").grid(row=1)
+        Label(master,text="Binär:").grid(row=2)
+        Label(master,text="Hexadezimal:").grid(row=3)
         
         self.d = Entry(master)
-        self.d.grid(row=0, column=1)
+        self.d.grid(row=0, column=2)
         self.o = Label(master,text="#")
         self.o.grid(row=1, column=1)
         self.b = Label(master,text="#")
