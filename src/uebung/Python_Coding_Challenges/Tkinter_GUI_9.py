@@ -11,7 +11,7 @@ class Application(Frame):
         Label(master,text="Hexadezimal").grid(row=3)
         
         self.d = Entry(master)
-        self.d.grid(row=0, column=1)
+        self.d.grid(row=0, column=2)
         self.o = Label(master,text="#")
         self.o.grid(row=1, column=1)
         self.b = Label(master,text="#")
